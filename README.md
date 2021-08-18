@@ -1,4 +1,4 @@
-# sample-nuxt-app 
+# sample-nuxt-app
 
 ## Build Setup
 
